@@ -70,9 +70,6 @@ body {
     margin-top: 20px;
     text-align: center;
 }
-.hide {
-    display: block;
-}
 .text {
     font-size: 1.4em;
     letter-spacing: 0.5px;
